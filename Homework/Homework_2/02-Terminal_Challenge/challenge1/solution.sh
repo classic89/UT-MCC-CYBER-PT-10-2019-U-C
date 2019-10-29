@@ -10,11 +10,11 @@ JPG_folder=$out_folder'JPG/'
 PNG_folder=$out_folder'PNG/'
 TIF_folder=$out_folder'TIFF/'
 
-echo 'out_folder: '$out_folder
-echo 'images_folder: '$images_folder
-echo 'JPG_folder: '$JPG_folder
-echo 'PNG_folder: '$PNG_folder
-echo 'TIF_folder: '$TIF_folder
+# echo 'out_folder: '$out_folder
+# echo 'images_folder: '$images_folder
+# echo 'JPG_folder: '$JPG_folder
+# echo 'PNG_folder: '$PNG_folder
+# echo 'TIF_folder: '$TIF_folder
 
 for dir in $JPG_folder $PNG_folder $TIF_folder
 do
