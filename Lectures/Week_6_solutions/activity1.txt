@@ -1,0 +1,18 @@
+With a partner, investigate and explain how each of the following might work in communicating over the network:
+
+File Transfer
+	
+Email
+	
+Web Page
+	
+
+For each scenario, think about and try to explain each of the following:
+Who is the client
+	? The server?
+What does the request look like? The response?
+
+What work does the client do? The server?
+
+What is being communicated?
+
