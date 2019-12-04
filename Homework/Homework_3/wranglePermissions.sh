@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/env bash
 # Date: 11/2019
 # Author: Megan Wilson
 # Homework 3: Wrangling Permissions
@@ -11,8 +11,8 @@ echo '\n Your group is: '$(groups $(whoami))
 echo 'How many users?'
 read numberofusers
 echo 'Total Users: '$numberofusers
-# for i in {0..$numberofusers}
-for ((i=0; i<$numberofusers; i++))
+for i in {0..$numberofusers}
+# for ((i=0; $i<$numberofusers; $i++))
 do
 	echo 'User#: '$i'\ninput name: '
 	read username
@@ -20,7 +20,7 @@ do
 	echo 'input password: '
 	read password
 	echo $password
-	sudo useradd -m $username -p $password
+#	sudo useradd -m $username -p $password
 done
 
 echo 'How many groups?'
@@ -34,7 +34,7 @@ do
 	read name
 	echo $name
 	# Add check if name exists
-        sudo groupadd 
+#       sudo groupadd 
 	# usermod -a -G $groupname -p $name
 done
 
