@@ -11,22 +11,23 @@ echo '\n Your group is: '$(groups $(whoami))
 echo 'How many users?'
 read numberofusers
 echo 'Total Users: '$numberofusers
-for i in {0..$numberofusers}
+# for i in {0..$numberofusers}
 # for ((i=0; $i<$numberofusers; $i++))
-do
-	echo 'User#: '$i'\ninput name: '
+# do
+	#echo 'User#:'$1
+	echo 'input name: '
 	read username
 	echo $username
 	echo 'input password: '
 	read password
 	echo $password
 #	sudo useradd -m $username -p $password
-done
+# done
 
 echo 'How many groups?'
 read numberofgroups
-for((i=0; i<=$numberofgroups; i++))
-do
+#for((i=0; i<=$numberofgroups; i++))
+#do
         echo 'Group#: $i \n input group name: '
 	read groupname
 	echo $groupname
@@ -36,7 +37,7 @@ do
 	# Add check if name exists
 #       sudo groupadd 
 	# usermod -a -G $groupname -p $name
-done
+# done
 
 # - Create Groups
 
