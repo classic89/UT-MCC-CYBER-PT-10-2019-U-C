@@ -14,29 +14,30 @@ echo 'Total Users: '$numberofusers
 # for i in {0..$numberofusers}
 # for ((i=0; $i<$numberofusers; $i++))
 # do
-	#echo 'User#:'$1
+	# echo 'User#:'$1
 	echo 'input name: '
 	read username
-	echo $username
+	# echo $username
 	echo 'input password: '
 	read password
-	echo $password
-#	sudo useradd -m $username -p $password
+	# echo $password
+	sudo useradd -m $username -p $password
 # done
 
 echo 'How many groups?'
 read numberofgroups
-#for((i=0; i<=$numberofgroups; i++))
-#do
-        echo 'Group#: $i \n input group name: '
+# for((i=0; i<=$numberofgroups; i++))
+# do
+        # echo 'Group#: $i' 
+	echo 'input group name: '
 	read groupname
-	echo $groupname
+	# echo $groupname
 	echo 'which user? input name: '
 	read name
-	echo $name
+	# echo $name
 	# Add check if name exists
-#       sudo groupadd 
-	# usermod -a -G $groupname -p $name
+        sudo groupadd 
+	sudo usermod -a -G $groupname -p $name
 # done
 
 # - Create Groups
