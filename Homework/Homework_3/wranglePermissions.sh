@@ -2,7 +2,6 @@
 # Date: 11/2019
 # Author: Megan Wilson
 # Homework 3: Wrangling Permissions
-# test
 
 set -o errexit # Stop execution on error
 echo 'You are: '$(whoami)
