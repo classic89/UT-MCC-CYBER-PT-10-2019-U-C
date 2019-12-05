@@ -37,7 +37,7 @@ read numberofgroups
 	read name
 	# echo $name
 	# Add check if name exists
-        sudo groupadd 
+        sudo groupadd $groupname 
 	sudo usermod -a -G $groupname -p $name
 # done
 
