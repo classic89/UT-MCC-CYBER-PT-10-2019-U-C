@@ -1,52 +1,43 @@
-#!/bin/env bash
+#!/bin/bash
 # Date: 11/2019
 # Author: Megan Wilson
 # Homework 3: Wrangling Permissions
 
 set -o errexit # Stop execution on error
-echo 'You are: '$(whoami)
-echo '\n Your group is: '$(groups $(whoami))
 
-# Part 1
-# - Create users
-echo 'How many users?'
-read numberofusers
-echo 'Total Users: '$numberofusers
-# for i in {0..$numberofusers}
-# for ((i=0; $i<$numberofusers; $i++))
-# do
-	# echo 'User#:'$1
-	echo 'input name: '
+# Python Script
+python3 ./script.py
+
+echo 'What do you want to do?'
+echo '1: Tell Me Who I Am '
+echo '2: Add User Or Group'
+echo '3: Show Log'
+echo '4: Manage Existing User'
+echo '5: Delete User or Group'
+
+read action
+echo 'I got : '$action' for action'
+
+if ["$action" == "1"]
+then 
+	echo 'You are: '$(whoami)
+	echo '\n Your group is: '$(groups $(whoami))
+elif ["$action" == "2"]
+then 
+	echo 'User: '
 	read username
-	# echo $username
-	echo 'input password: '
+	echo '\t'$username'\n'
+	echo 'Pass: '
 	read password
-	# echo $password
+	echo '\t'$password'\n'
+	echo 'Group:'
+	read group
+	echo '\t'$group'\n'
+	echo '\n'
 	sudo useradd -m $username -p $password
-# done
-
-echo 'How many groups?'
-read numberofgroups
-# for((i=0; i<=$numberofgroups; i++))
-# do
-        # echo 'Group#: $i' 
-	echo 'input group name: '
-	read groupname
-	# echo $groupname
-	echo 'which user? input name: '
-	read name
-	# echo $name
-	# Add check if name exists
-        sudo groupadd $groupname 
+	sudo groupadd $groupname 
 	sudo usermod -a -G $groupname -p $name
-# done
-
-# - Create Groups
-
-# - Set file permissions
-
-# - Manage `sudo` rights
-
+fi
 # Part 2
 # Restricting Sudo Access
 #- Use `visudo` to update `/etc/sudoers` such that `Teddy` and `Louise` can _only_ run `apt` with `sudo`.
@@ -86,4 +77,3 @@ read numberofgroups
 
 # Update your `/etc/skel` with `Documents`, etc., directories. Then, create a new user with your name. Inspect the contents of your new user's `/home` directory to verify that your `/etc/skel` update works as expected.
 #
-
