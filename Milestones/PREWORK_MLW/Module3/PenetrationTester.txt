@@ -1,0 +1,33 @@
+Penetration Tester
+CyberDefenses
+-
+Round Rock, TX 78681
+CyberDefenses is a leader in managed security services and provides our clients with a 24x7 Security Operations Center to monitor and respond to threats, as they appear. Penetration Testing is one of the various services that are offered to the wide range of CyberDefenses clients.
+The Lead Penetration Tester will perform network and application security reviews for the wide range of CyberDefenses clients, including clients in healthcare, banking, telecommunications, municipalities and county government. Here you will exercise your deep vulnerability detection skills across a very diverse collection of applications and networks. This role will also be critical in the delivery of cybersecurity support to our elections security clients.
+This role may by remote or based out of our Round Rock, TX headquarters and requires approximately 10% travel. This role may be contract or full-time.
+
+Responsibilities:
+Perform network penetration, web and mobile application testing, source code reviews, threat analysis, wireless network assessments, and social-engineering assessments
+Develop comprehensive and accurate reports and presentations for both technical and executive audiences
+Effectively communicate findings and strategy to client stakeholders including technical staff, executive leadership, and legal counsel
+Recognize and safely utilize attacker tools, tactics, and procedures
+Develop scripts, tools, or methodologies to enhance CyberDefenses processes
+Assist with scoping prospective engagements, leading engagements from kickoff through remediation, and mentoring less experienced staff
+
+
+Requirements:
+Able to work with CyberDefenses analysts on security features and risk mitigations
+Passionate about keeping our customers safe
+Curious enough to hunt for vulns through large, complex applications and networks
+Obsessed with breaking software
+Able to articulate technical details and risks to lay people
+5 years of relevant security experience
+Expertise in common application security tools (fuzzers, proxies, code analysis tools, etc.)
+Experience attacking cryptographic implementation issues (TLS misconfigurations, etc.)
+Networking experience
+Good understanding of production IT Environment and IT Operations such as Intel / DBA/ Unix / Windows OS/Exchange and Remote Server Management domains etc
+Bachelor's degree in Computer Science / Engineering with emphasis in security related fields (or equivalent experience)
+Certs like OSCP, OSCE, OSEE, etc. beneficial but not necessary
+Bonus points for community contributions like public CVEs, bug b
+
+https://www.indeed.com/viewjob?jk=625a4c4784e16e60&q=penetration+tester+software+engineer&l=Austin%2C+TX&tk=1dn6sqthl345e000&from=web&vjs=3

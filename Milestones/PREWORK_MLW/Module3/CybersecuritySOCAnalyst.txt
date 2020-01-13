@@ -1,0 +1,58 @@
+Cybersecurity SOC Analyst
+AT&T
+38,595 reviews
+-
+Austin, TX
+Help us defend the world on the digital Frontier! AT&T Cyber Security is growing and looking to add motivated, experienced SOC Analysts to our team in Austin. Our SOC Analysts have a mind for security, deep analytics, and bias toward action. If you’re looking for a career with a great team, let’s talk!
+
+You will work within the Security Operation and Analysis Center (SOAC), in Austin. This is a Tier 1 position and provides 24x7 coverage, continuous monitoring, and initial analysis of alarms based on a thorough set of case best practices. You will be responsible for engaging the customer and supporting the team to help us deliver seamless security.
+
+AlienVault has recently joined forces to create the new AT&T CyberSecurity. As a member of AT&T CyberSecurity, you will be entering an exciting growth stage company as we strive to provide Phenomenal Threat Information, Detection, and Security for customers worldwide!
+What we are looking to add to our team:
+Voracious learner and strong bias towards applying learning to action mindset
+Experience identifying and responding to potential threats and risks in a 24/7/365 SOC environment. This includes:
+monitoring multiple platforms and processing alarms based on standard methods and procedures while upholding the time-sensitive service level agreements of the projects
+
+managing the initial phase of customer escalations and investigations, and being the communications glue between our team and the customers
+conducting log queries to assist customer requests and tiered support
+Deep curiosity and ability to analyze & monitor current SIEM rules. You possess the knowledge to identify and communicate opportunities to enhance rules, reduce false positives, and escalate to support tiers if tuning is needed
+Preferred experience with the following technologies: USM, elastic search, and SNORT
+Familiarity with one or more programming languages to include: Python, PowerShell, and BASH
+
+We want to know you better if:
+2-3 years experience and proven track record as a SOC or Network Analyst (w/security experience)
+Strong team player and proven track record of making it happen
+US Citizen
+HSPD-12 Suitability Screening
+Associates or Bachelor of Science degree in the field of Computer science, Computer engineering, information technology, or Cybersecurity.
+CompTIA Security+
+AVSE Certification
+
+Additional Certifications Preferred:
+Cisco CCNA Cyber Ops
+CompTIA Linux +
+CompTIA Cybersecurity Analyst+
+GIAC Certified Intrusion Analyst (GCIA)
+GIAC Certified Forensic Analyst (GCFA)
+AWS Certified Security – Specialty
+Microsoft Azure Security Technologies Certified
+About Us:
+
+We are the new AT&T Cybersecurity! Our Edge-to-Edge technologies provide phenomenal threat intelligence, collaborative defense, security without the seams, and solutions that fit our customer’s business. Our unique, collaborative approach integrates best-of-breed technologies with unrivaled network visibility and actionable threat intelligence from AT&T Alien Labs researchers, Security Operations Center analysts, and machine learning – helping to enable our customers around the globe to anticipate and act on threats to protect their business.
+The Perks:
+Be part of a dynamic growing company that offers a meaningful and fun work environment
+Comprehensive Total Rewards Package (Salary + Bonus incentives)
+Comprehensive PPO/HMO Medical/Dental/Vision
+Paid: PTO, Sick Leave, Maternity/Paternity Leave, Service Day
+Adoption & Surrogacy programs
+401k + 100% matching up to 6%
+Educational opportunities & Tuition Reimbursement
+AT&T service discounts
+AT&T service referral programs
+Numerous industry awards and is recognized as a visionary in the industry
+Strong year-over-year growth and a rapidly-growing customer base
+
+At AT&T CyberSecurity we celebrate and support the differences that make you, you. We are proud to be an equal opportunity workplace and employer. We truly believe that diversity makes us better!
+Leadership Competencies
+AT&T Extraordinary Leader Model represents the leadership characteristics we all need to demonstrate to drive business performance and make AT&T a great place to work! Click here to view the Leadership Competencies associated with this Job.
+AT&T - 30+ days ago - save jobreport job

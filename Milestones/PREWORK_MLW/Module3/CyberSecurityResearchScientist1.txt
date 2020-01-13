@@ -1,0 +1,78 @@
+Cyber Security Research Scientist 1 - ADAST
+Wells Fargo
+35,996 reviews
+-
+Texas
+Job Description
+At Wells Fargo, we want to satisfy our customers’ financial needs and help them succeed financially. We’re looking for talented people who will put our customers at the center of everything we do. Join our diverse and inclusive team where you’ll feel valued and inspired to contribute your unique skills and experience.
+
+Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.
+
+Wells Fargo Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure footprint; provides information security; and enables continuous banking access through in-store, online, ATM, and other channels to Wells Fargo’s more than 70 million global customers
+
+Enterprise Information Security within Wells Fargo is seeking an Info Security Engineer to support application security for all of Wells Fargo applications. In this role, you will work with software development partners to identify and mitigate the security vulnerabilities in the applications identified through Automated Dynamic Application Security Testing (ADAST). Communication with the business security team, information security consultants (ISCs), operation risk consultants (ORCs), enterprise security group, and development technology partners is critical in this role. You will also act as an application security SME for the development and security communities within Wells Fargo.
+
+The Info Security Engineer will:
+
+Conduct automated dynamic application security testing using automated testing tools
+Review test results from tools
+Ensure that automated tests are completed successfully
+Identify and remove any false positives from automated testing tool reports
+Triage & Disposition results and enforce a Bug Bar
+Verify/validate defect fixes
+Provide application security consulting SME Support to developers
+Assist developers with understanding of security defects and risk
+Assist in defining acceptable solution to fix defects
+Communicate and document security risks, issues and controls for security planning purposes with line of business liaisons Help maintain Security Coding Standards and Bug Bar as required
+Assist in the Development of standards as required
+Provide training
+Stay up to speed on 3rd party (inside and outside Wells Fargo) known security vulnerabilities
+Develop and review malicious use cases/threat models
+Maintain a broad understanding of security technologies and products
+Actively participate on improving the security culture and education throughout the organization
+
+Required Qualifications
+6+ months of experience in one or a combination of the following offensive security trade craft(s): penetration testing, malware reverse engineering, white hat hacking, lock-picking, zero day, CBEST Framework, or social engineering; or BS/BA degree or higher in Information Technology or Information Security
+6+ months of DAST (Dynamic Application Security Testing) experience
+6+ months of automated information security penetration tools experience
+
+Desired Qualifications
+Successful completion of one or a combination of the following offensive security certification program(s): Offensive Security Certified Expert (OSCP), Offensive Security Certified Professional (OSCE), Exploit Researcher and Advanced Penetration Tester (GXPN), or CREST
+Ability to manage complex security scenarios and develop innovative solutions to address the most recent cyber threats
+Knowledge and understanding of application or software security such as: web application penetration testing, secure code review, secure static code analysis
+Knowledge and understanding of banking or financial services industry
+Experience working in a large enterprise environment
+Strong analytical skills with high attention to detail and accuracy
+Knowledge and understanding of information security industry standards and government regulations
+Strong organizational, multi-tasking, and prioritizing skills
+Ability to manage multiple and competing priorities
+Ability to work with limited supervision
+Ability to take on a high level of responsibility, initiative, and accountability
+Good attention to detail and accuracy skills
+Strong collaboration and partnering skills
+Certifications in one or more of the following: Global Information Assurance Certification (GIAC), Offensive Security Certified Professional (OSCP), Offensive Security Wireless Professional (OSWP), Offensive Security Certified Expert (OSCE), Offensive Security Exploitation Expert (OSEE), or Offensive Security Web Expert (OSWE)
+
+Job Expectations
+Ability to work outside of regular business hours
+
+Street Address
+Texas: Field Rep 002 in TX - Field Rep 002, TX
+NC-Charlotte: 1525 W Wt Harris Blvd - Charlotte, NC
+AZ-Chandler: 2600 S Price Rd - Chandler, AZ
+MN-Minneapolis: 255 2nd Ave S - Minneapolis, MN
+CA-SF-Financial District: 333 Market St - San Francisco, CA
+NC-Charlotte: 401 S Tryon St - Charlotte, NC
+NC-Winston Salem: 809 W 4 1/2 St - Winston Salem, NC
+Disclaimer
+
+All offers for employment with Wells Fargo are contingent upon the candidate having successfully completed a criminal background check. Wells Fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and Federal law, including Section 19 of the Federal Deposit Insurance Act.
+
+Relevant military experience is considered for veterans and transitioning service men and women.
+
+Wells Fargo is an Affirmative Action and Equal Opportunity Employer, Minority/Female/Disabled/Veteran/Gender Identity/Sexual Orientation.
+
+
+TECHNOLOGY
+Wells Fargo - 6 days ago - save jobreport job
+
+https://www.indeed.com/viewjob?jk=9203e2e31108636b&tk=1dn6src00p360800&from=serp&vjs=3&advn=2505340136948227&adid=312423184&sjdu=teYnAu8OgCGxABCwWD3OBGSvNPsXXaEnWLrUq8268_RZLFEUz06-26LswG3tqQSkHKRSsxGbJN_IDk71zHOryUmXMW6DzK2DE5Ha1vq19fLyrkVxhztwHfg1SOEdUK_rtR0e2xtcMu7rukJ0WF8yVbj2XYw3NV4SAdqHf6xiZDVQn9hmDSCl4zjoxFYmFSJ4OuT6CqvCEukl3vtRDLcKvJndAQHiQjiDd5GjGL3VdSnHEFChx5okFoKfGX0viKzTag-wbp5-UPoC8wclg37P1ocUbAoDNXjXiFDJ_UYYR5XYuYjxmXYifISjccp9XSEbA0DAZZhaGuxpOC7xWpQTpiuyMDIKpLF_T9wmBov7YKpqSnyIO7ol0Lv5uFYQOkwk

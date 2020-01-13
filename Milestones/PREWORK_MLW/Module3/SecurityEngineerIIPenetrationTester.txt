@@ -1,0 +1,45 @@
+Security Engineer II - Penetration Tester
+Amazon.com Services, Inc.
+38,825 reviews
+-
+Austin, TX
+BS in Computer Science or related field, or equivalent work experience
+4+ years in an Information Security role, preferably in red teaming, penetration testing, reverse engineering, incident response or vulnerability management
+Advanced knowledge and understanding in various disciplines such as security engineering, system and network security, authentication and security protocols, cryptography, and application security
+Experience with interpreted or compiled languages: Python, Ruby, Perl, PHP, C/C++, Java, C#
+Experience with cloud service providers and their offerings, preferably AWS and its various technologies and APIs
+Experience with various testing tools, such as Metasploit, Nmap, Nessus, Burp Suite, etc.
+Familiar with offensive TTPs (Tactics, Techniques and Procedures) including post-exploitation and lateral movement
+Strong sense of ownership, urgency, and drive
+
+Amazon’s Offensive Security Team is looking for a penetration tester to identify problems before they’re exploited and help keep Amazon secure and safe from attackers.
+
+This role has a broad scope, ranging from testing a variety of Amazon’s services, software and hardware, relaying findings to product owners and Information Security teams, and helping to drive overall improvements to Amazon’s security posture. This role presents the ultimate test of implementing one’s security knowledge, coupled with the ability to learn and operate as part of a team of highly skilled individuals. This position will provide you with challenging opportunities, both technologically and as a leader.
+
+A Security Engineer at Amazon is expected to be strong in multiple domains. Engineers in this role work closely with teams throughout Information Security, such as Threat Intelligence and Application Security, and provide technical leadership and advice to teams throughout Amazon. The partnerships forged with teams across Amazon have a direct impact of both the security of Amazon and our customers.
+
+Engineers in this role must show exemplary judgment in making technical trade-offs between short versus long term security and business goals. They must also demonstrate resilience and navigate difficult situations with composure and tact. This role will be expected to provide thought leadership for the organization, as you invent and innovate in the course of your duties. Above all else, a strong sense of customer obsession is necessary to focus on the ultimate goal of keeping Amazon and its customers secure.
+
+Responsibilities:
+Conduct full cycle engagements with business units independently, or as part of a team.
+Perform manual penetration testing of client systems, web sites, and networks to discover and document vulnerabilities.
+Thoroughly document vulnerabilities and other findings for client consumption.
+Communication skillset to influence SVPs, VPs, Directors, and Domain Managers to prioritize and execute remediation plans.
+
+Experience in conducting social engineering focused assessments
+Experience in CTF competitions, CVE research and/or Bug Bounty recognition
+Experience in Web and Mobile (Android/iOS) based application/service assessment
+Experience in Wireless and Network assessment in enterprise infrastructure
+Experience in reverse engineering and associated tooling such as IDA
+Knowledge of fuzzing, memory corruption and exploit development
+Knowledge about hardware hacking
+Intermediate to advanced communication and presentation skills
+Experience providing training and mentorship
+Demonstrable teamwork skills and resourcefulness
+Ability to make concrete progress in the face of ambiguity and imperfect knowledge
+Sharp analytical abilities and proven design skills
+
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation
+Amazon.com - 30+ days ago - save jobreport job
+
+https://www.indeed.com/viewjob?jk=d71d99f113f311b1&tk=1dn6sqthl345e000&from=serp&vjs=3

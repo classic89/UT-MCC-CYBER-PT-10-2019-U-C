@@ -1,0 +1,58 @@
+Cyber Security Engineer - Data Loss Prevention
+Blackbaud
+103 reviews
+-
+Austin, TX 78716
+Commission
+About Blackbaud:
+
+Leading uniquely at the intersection point of technology and social good, Blackbaud provides software, services, expertise, and data intelligence that empowers and connects people to advance the social good movement. We serve the entire social good community, which includes nonprofits, foundation, corporations, education institutions, and the individual change agents who support them. We work with over 40,000 organizations, helping them realize their goals, fund their missions, manage their operations, and develop long-lasting supporter relationships. Our customers are passionate about making the world a better place, and we’re inspired by the opportunity to help them.
+
+The DLP (Data Loss Prevention) Security Engineer is responsible for supporting the activities related to managing and preventing the unauthorized distribution of Blackbaud’s data through the Blackbaud DLP Program. The Engineer is a technology and process focused security professional with an emphasis in information security, data classification, Digital Rights Management (DRM), and DLP. The Engineer will review, assess, recommend and implement policy and technical controls to ensure the Blackbaud DLP program is effective.
+
+Key Activities
+
+Information Security Control Design & Maintenance
+Interviews company representatives and business owners to confirm anticipated business effects resulting from the actual occurrence of any of the identified enterprise security risks
+Reviews, develops, and implements security vendor agreements, and security exceptions to control standards as they relate to the DLP Program
+Conducts technical security reviews and assessments of current data handling practices
+Monitors and tracks remediation activities to address weaknesses and issues discovered through security reviews
+Develops strategies to ensure compliance with security standards as well as regulatory and audit issues
+provides periodic reporting including assessment findings and recommendations for improvement
+Maintain security solutions including proper operation, patch upgrades and vendor management
+Reviews existing toolsets, identifies operational gaps, and recommends security enhancements
+Assists in achieving security architecture compliance on requirements, including: Sarbanes-Oxley, payment card industry standards, HIPAA/HITECH, global data privacy requirements, as well as state and federal regulations
+Serves as information security subject matter expert on DLP/DRM solutions; provide advisory and consulting services as needed
+Provides technical lead on individual security projects across multiple technologies including infrastructure, secure electronic data transfer, network security, platform security and application security
+Assists with the design and implementation of disaster recovery and business continuity plans, procedures, audits and enhancements
+Continue to Build a Strong Security Program
+Draft enterprise security standards and guidelines for proper operation of security toolsets for the DLP Program
+Evaluate and recommend new and emerging security products and technologies
+Assess and mitigate risk
+Application and vendor risk assessment due diligence
+Assess IT risks through mergers and acquisitions and recommend mitigation strategies
+Respond to Security Incidents
+Develop security operations that detect potential security incidents
+As a member of the Incident Response Team, performs analysis and technical tasks involving assignment and coordination of measures to provide information assurance, event detection, and rapid response
+Education & Experience
+College degree in Computer Information Systems, Computer Science, Information Systems Management, or equivalent professional experience
+A minimum of 7 years of progressively responsible experience in the management of information systems with at least 4 years of formal experience in information security.
+Experience with:
+Security Technologies / Methodologies
+IT Audit/Risk Management
+Information Security Metrics and Reporting
+Systems Control Review Process
+Data Loss Prevention/Digital Rights Management
+Certifications
+Certification in highly technical information security disciplines such as: CISM, CISSP, CCSP, CCNP, CCDE, CCIE Security, and GIAC
+Why you’ll want to come work here:
+Competitive salary (commission/bonus based on type of role), 4 weeks paid time off, great benefits (medical, dental, vision, FSA), 401K match
+Gift matching, volunteer for vacation program, and endless community involvement opportunities
+Named to Forbes’ Fast Tech 25 and Fortune’s Change the World List; we are growing and offer incredible opportunity for advancement
+Tremendous company culture and office perks as well as a new cutting-edge new headquarters completed in 2018
+Stay up to date on everything Blackbaud, follow us on Linkedin, Twitter and Facebook.
+
+Blackbaud is proud to be an equal opportunity employer and is committed to maintaining a diverse and inclusive work environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law.
+
+
+https://www.indeed.com/viewjob?jk=d17bd7cbcab79107&tk=1dn6spbiip360800&from=serp&vjs=3&advn=3565145538192372&adid=254279601&sjdu=i6xVERweJM_pVUvgf-Mzud6v7vx4W2vba62rTobId35QZBY7p8tvLvlsLNw7x1eI

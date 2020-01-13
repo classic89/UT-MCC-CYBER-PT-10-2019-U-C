@@ -1,0 +1,62 @@
+Security Penetration Tester (SRO)
+DELL
+9,745 reviews
+-
+Round Rock, TX 78682
+Penetration Tester, Senior Advisor
+
+Round Rock, Texas
+
+The Dell Security & Resiliency organization manages the security risk across all aspects of Dell’s business. We are currently experiencing incredible growth to meet the security needs of the world’s largest technology company. With team members located in over 15 countries, you will have an excellent opportunity to influence the security culture at Dell and further develop your career.
+
+Dell is a worldwide provider of information technology services and business solutions to a broad range of clients. We seek men and women who share our values, thrive in a team environment, and recognize the importance of accountability; people who strive to exceed expectations to ensure our Clients' success.
+
+We are currently seeking a Penetration Tester to join our Security & Resiliency team, based in Round Rock, TX. The ideal candidate will possess a deep understanding of attack surfaces in modern compiled applications and operating systems. Candidates must demonstrate the ability to analyze closed source applications using several off-the-shelf or custom developed tools. Additionally, the ideal candidate will be able to demonstrate exceptional organizational skills, work efficiently under minimal supervision, be able to deliver results that meet or exceed client expectations, be a strong team player, and actively participate in a fast-paced and challenging global environment.
+
+Key Responsibilities
+
+Discovers and exploits vulnerabilities affecting Dell infrastructure.
+Develops and maintain tools to assist in vulnerability research and exploit development.
+Communicates information security procedures to the business.
+Escalate issues to vendors, security team, and engineering through standard escalation processes.
+Provide technical expertise and advice on all areas of security technology, including: network security, platform security, authentication/authorization systems, application security, security architecture, policy enforcement, and security frameworks.
+Integrates information security controls into an environment to identify risks and reduce impact.
+Work with technology groups to evaluate, select, install, and configure hardware/software systems to comply with established enterprise security standards and policies.
+Participate in or work directly on, additional projects, assignments or initiatives as required.
+Requirements
+
+5+ years of Information Security experience.
+3+ years direct or equivalent experience in areas of penetration testing, exploit development, vulnerability research and fuzzing.
+In-depth knowledge and experience with Windows Operating Systems Internals (Kernel, Registry, File system, Windows APIs).
+Knowledge of Windows development (C/C++/C#) user mode and kernel mode applications.
+Competency with any of the following tools: User and kernel-mode debuggers (WinDbg, OllyDbg/Immunity Debugger), IDA Pro, Hex-Rays, Visual Studio, Driver Verifier
+Experience performing host, network, and web application penetration tests
+Scripting experience with the ability to develop custom scripts, exploits, and tools
+Experience with common penetration testing tools
+Experience developing detailed penetration testing reports that can speak to multiple audience types
+Desired Qualifications
+
+Candidates possessing the following will be given preferential consideration:
+Bachelor of Science in Computer Science, Computer Engineering, or Electrical Engineering or a related technical field or equivalent professional experience.
+Experienced programming using x86/x64 assembly C, C++, and Python (or a comparable scripting language).
+Familiar with the Metasploit framework.
+Source code review for control flow and security flaws.
+Have published security research or security bug.
+Possess excellent communication skills in English, both written and verbal.
+Excellent problem solving skills with the ability to diagnose and troubleshoot technical issues.
+Customer-oriented with a strong interest in customer satisfaction.
+Benefits
+
+We offer highly competitive salaries, bonus programs, world-class benefits, and unparalleled growth and development opportunities — all to create a compelling and rewarding work environment.
+
+Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics.
+
+"LI Priority"
+
+Dell - 30+ days ago - save jobreport job
+- original job
+Penetration Tester jobs in Round Rock, TX
+Jobs at DELL in Round Rock, TX
+Penetration Tester salaries in Round Rock, TX
+
+https://www.indeed.com/viewjob?jk=c03d80bb86fe5d9e&tk=1dn6sqthl345e000&from=serp&vjs=3

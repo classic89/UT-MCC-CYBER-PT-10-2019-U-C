@@ -1,0 +1,42 @@
+Application Security Engineer
+Kasasa
+14 reviews
+-
+Austin, TX
+Application Security Engineer
+Only the passionate need apply!
+We're looking for much more than qualified applicants! We want individuals who believe that anything worthy of their effort is worthy of their best effort. That anything we produce should not merely compete but truly dominate its category.
+Kasasa employees are dedicated to helping community banks and credit unions compete and win. Like the Spartans in the Battle of Thermopylae, we stand together and inspire others to join us in our mission. Stronger together and united by core values, we are more than a team: We are a phalanx.
+Are you ready to join an amazing group of people who genuinely love their jobs, in an environment that inspires greatness?
+SUMMARY OF PURPOSE
+Kasasa is seeking an Application Security Engineer who is passionate about securing innovative products that scale to thousands of financial institutions. The Application Security Engineer will partner with stakeholders across Technology, Engineering, IT, Operations, and Product Management. If you enjoy working in a highly collaborative environment and approach every day with a burning passion for building and breaking systems, then Kasasa wants you!
+RESPONSIBILITIES
+Build a cross-functional group of Security-minded Engineers to amplify the infusion of Security into Kasasa’s application product portfolio.
+Evangelize “Hack Yourself First” to build more resilient and secure systems.
+Perform end-to-end testing of Kasasa’s web and mobile platforms.
+Own the vulnerability management lifecycle from identification to remediation to reporting.
+Perform code reviews and threat modeling alongside your Kasasa Dev brethren.
+Participate in internal user acceptance testing and test case creation for new product releases and enhancements.
+Evaluate, implement, and leverage commercial and open-source tools to achieve test automation.
+Conduct Security research to keep abreast of latest attack techniques and the evolving threat landscape.
+Educate financial institutions on their Security findings.
+Participate in monthly oversight meetings with Chief Information Security Officer to provide transparency and visibility into the critical and high vulnerabilities, development challenges, and roadmap direction.
+EXPERIENCE & KNOWLEDGE
+Bachelor’s degree in Computer Science, Engineering, Computer Security, Information Systems, or related field.
+2+ years of hands-on .NET or Java development.
+Continuous integration/deployment tools (e.g., Bitbucket, Stash, Git, Github, Jenkins, etc.).
+Web and mobile penetration testing and vulnerability research.
+Static and dynamic application security testing (SAST and DAST).
+CERTIFICATIONS
+SANS GWAPT (Web Application Penetration Tester)
+ISC2 CSSLP (Certified Secure Software Lifecycle Professional)
+PHYSICAL REQUIREMENTS
+Sitting for extended periods of time; approximately 5-6 hours per day
+Simultaneous use of hand, wrist and fingers
+Daily operation of standard office equipment
+Frequent use of oral communication to perform work
+Lifts and moves up to 20 pounds occasionally
+Kasasa - 30+ days ago - save jobreport job
+- original job
+
+https://www.indeed.com/viewjob?jk=7ac341484f7d2b0a&q=penetration+tester+software+engineer&l=Austin%2C+TX&tk=1dn6sqthl345e000&from=web&vjs=3
