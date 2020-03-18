@@ -21,8 +21,6 @@ extension='.txt'
 # fi
 
 touch $newfile
-chmod 755 $newfile
-echo 'You are in Nano (Ctrl-X to quit): '
-echo $(nano $newfile)
+$(sudo nano $newfile)
 
 
