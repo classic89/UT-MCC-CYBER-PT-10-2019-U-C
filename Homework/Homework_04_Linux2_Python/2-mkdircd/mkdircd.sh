@@ -20,5 +20,6 @@ extension='.txt'
 # fi
 
 touch $newfile
-echo 'Start writing: '
-$(nano $absolute_path'/'$newfile)
+# echo $absoulte_path'/'$newfile
+# echo 'Start writing: '
+# $(nano $absolute_path'/'$newfile)
