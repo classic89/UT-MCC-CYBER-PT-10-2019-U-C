@@ -12,6 +12,8 @@ do
      TARGET=$i
      ping -c 1 $TARGET
 done
+cat nonexistent_file 
+	echo "File exists!" || echo "File does not exist :("
 
 
 
