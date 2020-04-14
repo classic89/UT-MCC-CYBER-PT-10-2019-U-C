@@ -1,1 +1,21 @@
-testing 1 2 3
+1. A title indicating what application-layer protocol is being used.
+
+  2. 1-2 paragraphs explaining how that protocol works and what it is used for. Include images and diagrams as necessary. Explain the steps taken in communication of the protocol.
+
+     - Include an image of the back-and-forth communication the protocol did in the pcap to help illustrate your explanation.
+
+  3. 2-3 paragraphs explaining what happened in the communication across the network.
+
+     - You should at least answer:
+
+       - Who was sending/receiving information?
+
+       - What was the topic of conversation?
+
+       - What data was transmitted?
+
+     - Include information such as ports used, source/destination IPs, and how much data was transmitted.
+
+     - **Use images throughout to explain how you found this information.**
+
+  4. Any other information of note related to the PCAP file.
